@@ -1,0 +1,23 @@
+{
+  "job_date": "2028-03-15",
+  "migrated": {
+    "incident": 87,
+    "change": 77,
+    "request": 79,
+    "problem": 76
+  },
+  "remaining": {
+    "incident": 21,
+    "change": 20,
+    "request": 19,
+    "problem": 21
+  },
+  "open_reopened": {
+    "count": 3,
+    "tids": [
+      "T0018",
+      "T0053",
+      "T0378"
+    ]
+  }
+}
